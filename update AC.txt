@@ -1,0 +1,1 @@
+put keys in array as indexes reference index when assigning keys and when chekcing keys
